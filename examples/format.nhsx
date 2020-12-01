@@ -12,6 +12,7 @@
     </File>
   </AudioPool>
   <Tracks>
+    <Master Name="Master"/>
     <Track>
       <Region Ref="2"/>
       <Region Ref="2"/>
