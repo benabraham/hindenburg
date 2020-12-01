@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg Journalist Pro 1.85.2346" Samplerate="44100">
+  <Info Author="Daniel Srb"/>
+  <AudioPool Path="MaoZahide Files" Location="H:\GOGA\MaoZahide">
+    <File Id="1" Name="Zahide SenterziR.wav" Duration="50:24.214"/>
+    <File Id="2" Name="MaoZahideGoga.wav" Duration="46:59.947" Leq="-34.0" Dyn="0.64">
+      <MetaData OriginalPath="H:\GOGA\MaoZahideGoga.wav"/>
+    </File>
+    <File Id="3" Name="Zahide SenterziL.wav" Duration="50:24.214"/>
+    <File Id="4" Name="MaoZahide SenterziR.wav" Duration="49:03.408"/>
+  </AudioPool>
+  <Tracks>
+    <Track Name="Zahide">
+      <Region Ref="1" Name="Zahide" Start="14.408" Length="02.283" Offset="03:29.855" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="26.889" Length="02.173" Offset="03:42.336" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="33.874" Length="00.923" Offset="03:49.321" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="39.465" Length="15.941" Offset="03:54.912" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="01:28.383" Length="20.229" Offset="04:43.830" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="01:51.475" Length="03.271" Offset="05:06.922" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="01:55.850" Length="10.361" Offset="05:11.297" FadeIn="00.522" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="02:23.288" Length="35.274" Offset="05:38.735" FadeIn="00.302" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="03:04.051" Length="01.335" Offset="06:19.498" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="03:13.920" Length="43.355" Offset="06:29.367" FadeIn="00.216" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="03:59.775" Length="01.134" Offset="07:15.222" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="04:01.743" Length="04.558" Offset="07:17.190" FadeIn="00.158" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="04:07.971" Length="30.088" Offset="07:23.418" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="04:41.266" Length="04.003" Offset="07:56.713" FadeIn="00.158" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="04:49.371" Length="01.267" Offset="08:04.818" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="04:51.150" Length="01.477" Offset="08:06.597" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="05:02.440" Length="43.485" Offset="08:17.887" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="05:55.325" Length="38.938" Offset="09:10.772" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="06:39.114" Length="01.299" Offset="09:54.561" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="06:53.888" Length="00.609" Offset="10:09.335" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="06:58.121" Length="00.526" Offset="10:13.568" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:01.425" Length="02.608" Offset="10:16.872" FadeOut="00.592" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:04.800" Length="15.063" Offset="10:20.247" FadeIn="00.286" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:23.463" Length="04.657" Offset="10:38.910" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:30.636" Length="01.059" Offset="10:46.083" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:39.757" Length="00.782" Offset="10:55.204" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="07:54.297" Length="00.684" Offset="11:09.744" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="08:00.915" Length="01:55.035" Offset="11:16.362" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="10:07.716" Length="52.364" Offset="13:23.163" FadeIn="00.450" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="11:17.475" Length="29.773" Offset="14:32.922" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="11:59.162" Length="58.963" Offset="15:14.609" FadeIn="00.421" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="13:05.275" Length="29.025" Offset="16:20.722" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="13:38.875" Length="00.600" Offset="16:54.322" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="13:41.850" Length="00.575" Offset="16:57.297" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="13:50.950" Length="22.899" Offset="17:06.397" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="14:17.217" Length="10.315" Offset="17:32.664" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="14:36.070" Length="00.919" Offset="17:51.517" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="14:38.934" Length="03.588" Offset="17:54.381" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="14:46.219" Length="02.406" Offset="18:01.666" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="15:00.992" Length="53.920" Offset="18:16.439" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="16:06.081" Length="01.842" Offset="19:21.528" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="16:14.662" Length="24.888" Offset="19:30.109" FadeIn="00.180" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="16:46.104" Length="01.417" Offset="19:59.377" Gain="-10.7"/>
+      <Region Ref="1" Name="Zahide" Start="16:47.521" Length="01:14.317" Offset="20:02.968" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="18:04.879" Length="05.240" Offset="21:20.326" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="18:34.577" Length="01.477" Offset="21:50.024" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="19:05.164" Length="00.661" Offset="22:20.611" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="19:08.400" Length="02:03.150" Offset="22:23.847" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="21:18.288" Length="00.887" Offset="24:33.735" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="21:37.346" Length="00.847" Offset="24:52.793" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="22:18.831" Length="07.144" Offset="25:34.278" Gain="-3.5"/>
+      <Region Ref="1" Name="Zahide" Start="22:25.975" Length="24:24.512" Offset="25:50.735" Gain="-3.5"/>
+      <Plugins>
+        <Plugin Id="1" Name="Hlasové profily" UID="nhft" MF_Gain="0.320611" HF_Freq="0.0486641" LF_Q="0.100411" CompBypass="0" Comp="0.302796" HF_Gain="0.60916" MF_Q="0.176885" HP_Gain="0.2" HP_Freq="0.00455248" Bypass="False" HF_Type="0.7" HF_Q="0.0781097" MF_Freq="0.0303919" Vendor="Hindenburg Systems" LF_Type="0" LF_Freq="0.00887799" LF_Gain="0.638168"/>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Learn="0" HPF="0.390625" Vendor="Klevgrand" High="0.4375" Bypass="False">
+          <![CDATA[BZ:789C6364603871E8EC92A38740F495DFDB0E5D485C016683F00DB92D879A562C87F31B1B361EDA6FBE13CC5E3479FFA1B7714B0FB9FCAA718AFB15E73C6BE61767BFAA7097D6C5CB5D66DDFCE0B26EBDB2ABEDAC50D734B176D7D6CDCB5C972C39E93AEBE57B57DB833C6EB3CC95DD1822ACDD181818ECFF1FF3B2B971F0AF2D
+03183CB0039A0DC40DF6100C0400E576477A]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+    <Track Name="Goga-denoise">
+      <Region Ref="2" Name="Goga" Length="27.175"/>
+      <Region Ref="2" Name="Goga" Start="28.850" Length="02.979" Offset="28.850"/>
+      <Region Ref="2" Name="Goga" Start="32.768" Length="00.863" Offset="32.768"/>
+      <Region Ref="2" Name="Goga" Start="35.250" Length="04.794" Offset="35.250"/>
+      <Region Ref="2" Name="Goga" Start="43.365" Length="01.398" Offset="43.365"/>
+      <Region Ref="2" Name="Goga" Start="55.991" Length="32.392" Offset="55.991"/>
+      <Region Ref="2" Name="Goga" Start="01:48.235" Length="03.735" Offset="01:48.235"/>
+      <Region Ref="2" Name="Goga" Start="01:54.304" Length="01.376" Offset="01:54.304"/>
+      <Region Ref="2" Name="Goga" Start="02:06.914" Length="16.646" Offset="02:06.914"/>
+      <Region Ref="2" Name="Goga" Start="02:25.560" Length="04.565" Offset="02:25.560"/>
+      <Region Ref="2" Name="Goga" Start="02:59.093" Length="04.074" Offset="02:59.093"/>
+      <Region Ref="2" Name="Goga" Start="03:04.650" Length="09.212" Offset="03:04.650"/>
+      <Region Ref="2" Name="Goga" Start="03:57.466" Length="00.975" Offset="03:57.466"/>
+      <Region Ref="2" Name="Goga" Start="04:00.964" Length="00.458" Offset="04:00.964"/>
+      <Region Ref="2" Name="Goga" Start="04:04.868" Length="03.786" Offset="04:04.868"/>
+      <Region Ref="2" Name="Goga" Start="04:13.286" Length="00.512" Offset="04:13.286"/>
+      <Region Ref="2" Name="Goga" Start="04:14.572" Length="00.383" Offset="04:14.572"/>
+      <Region Ref="2" Name="Goga" Start="04:38.601" Length="02.368" Offset="04:38.601"/>
+      <Region Ref="2" Name="Goga" Start="04:45.147" Length="00.416" Offset="04:45.147"/>
+      <Region Ref="2" Name="Goga" Start="04:46.988" Length="17.669" Offset="04:46.988"/>
+      <Region Ref="2" Name="Goga" Start="05:06.628" Length="00.415" Offset="05:06.628"/>
+      <Region Ref="2" Name="Goga" Start="05:35.467" Length="06.546" Offset="05:35.467"/>
+      <Region Ref="2" Name="Goga" Start="05:46.245" Length="10.027" Offset="05:46.245"/>
+      <Region Ref="2" Name="Goga" Start="06:28.914" Length="03.035" Offset="06:28.914"/>
+      <Region Ref="2" Name="Goga" Start="06:34.654" Length="26.384" Offset="06:34.654"/>
+      <Region Ref="2" Name="Goga" Start="07:03.615" Length="00.810" Offset="07:03.615"/>
+      <Region Ref="2" Name="Goga" Start="07:20.398" Length="02.027" Offset="07:20.398"/>
+      <Region Ref="2" Name="Goga" Start="07:24.740" Length="02.004" Offset="07:24.740"/>
+      <Region Ref="2" Name="Goga" Start="07:28.506" Length="32.159" Offset="07:28.506"/>
+      <Region Ref="2" Name="Goga" Start="09:56.356" Length="11.094" Offset="09:56.356"/>
+      <Region Ref="2" Name="Goga" Start="10:51.589" Length="01.811" Offset="10:51.589"/>
+      <Region Ref="2" Name="Goga" Start="10:56.975" Length="00.850" Offset="10:56.975"/>
+      <Region Ref="2" Name="Goga" Start="11:00.036" Length="17.189" Offset="11:00.036"/>
+      <Region Ref="2" Name="Goga" Start="11:49.750" Length="13.373" Offset="11:49.750"/>
+      <Region Ref="2" Name="Goga" Start="12:58.125" Length="06.875" Offset="12:58.125"/>
+      <Region Ref="2" Name="Goga" Start="13:08.800" Length="01.225" Offset="13:08.800"/>
+      <Region Ref="2" Name="Goga" Start="13:32.975" Length="17.975" Offset="13:32.975"/>
+      <Region Ref="2" Name="Goga" Start="13:56.775" Length="00.825" Offset="13:56.775"/>
+      <Region Ref="2" Name="Goga" Start="14:13.000" Length="05.281" Offset="14:13.000"/>
+      <Region Ref="2" Name="Goga" Start="14:19.950" Length="00.581" Offset="14:19.950"/>
+      <Region Ref="2" Name="Goga" Start="14:27.653" Length="12.200" Offset="14:27.653"/>
+      <Region Ref="2" Name="Goga" Start="14:42.752" Length="18.798" Offset="14:42.752"/>
+      <Region Ref="2" Name="Goga" Start="15:45.975" Length="04.021" Offset="15:45.975"/>
+      <Region Ref="2" Name="Goga" Start="15:53.091" Length="21.302" Offset="15:53.091"/>
+      <Region Ref="2" Name="Goga" Start="16:39.793" Length="05.157" Offset="16:39.793"/>
+      <Region Ref="2" Name="Goga" Start="17:59.850" Length="34.622" Offset="17:59.850"/>
+      <Region Ref="2" Name="Goga" Start="18:36.269" Length="31.798" Offset="18:36.269"/>
+      <Region Ref="2" Name="Goga" Start="21:11.850" Length="01:06.774" Offset="21:11.850"/>
+      <Region Ref="2" Name="Goga" Start="22:32.233" Length="24:18.401" Offset="22:41.546"/>
+      <Plugins>
+        <Plugin Id="0" Name="Hlasové profily" UID="nhft" MF_Gain="0.639695" LF_Q="0.116441" HF_Freq="0.454545" CompBypass="0" HF_Gain="0.36649" Comp="0.15" HP_Freq="0.00136364" HP_Gain="0.401235" MF_Q="0.11384" Bypass="True" HF_Type="0.7" Vendor="Hindenburg Systems" MF_Freq="0.158537" HF_Q="0.09" LF_Freq="0.0143335" LF_Type="0" LF_Gain="0.345038"/>
+      </Plugins>
+    </Track>
+    <Track Name="Goga" Mute="1">
+      <Region Ref="3" Name="Goga" Length="46:59.421" Offset="03:15.300" Gain="1.0"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.0542917" Threshold="0.517679" Attack="0.0107191" HPF="0.303505" Learn="0" High="0.568232" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C63CC393AE5D086C4E587EE26ED3A24BCE0F0A14377161EAA3FB8EC1003C389435B8E1C3F74FCF49A43EB1AD682F9202C787CE5A1AB01BBC06C9B991B0FB9FCAA718AFB15E73C6BE61767BFAA7097D6C5CB5D66DDFCE0B26EBDB2ABEDAC50D734B176D7D6CDCB5C972C39E93AEBE57B57DB833C6EB3CC95DD1822ACDD96B4
+B1D8CBCCD7B7F99E1067CB0004CBCA05EDFFA4CCB6636068B087602000008C254AC7]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+    <Track Name="Goga rekorder" Mute="1">
+      <Region Ref="4" Name="Goga" Length="02:06.015" Offset="01:57.230" Gain="-6.0"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.0128552" Threshold="0.49116" Attack="0.00740417" HPF="0.304696" Learn="0" High="0.553314" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C63B45D5579E8D5E995874E6FDD7D68D5F60387B4FCEA0F05766D38F43BFFE8A17DD38F1E4A775A7868CAA61D8718184E80B1DFF495876ED6EC39B490FFF8A1433BB71E72F955E314F72BCE79D6CC2FCE7E55E12EAD8B97BBCCBAF9C165DD7A6557DB59A1AE6962EDAEAD9B97B92E5972D275D6CBF7AEB60779DC66992BBB
+314458BB4556FEB65B3BEF93F5BE7941360C40C0BC8CD75E9E718E1D0343833D040301005A044C8C]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+    <Track Name="Goga rekorder-2" Mute="1">
+      <Region Ref="4" Name="Goga" Start="02:05.874" Length="44:53.547" Offset="04:03.104" Gain="-6.0"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.0708663" Threshold="0.482323" Attack="0.0455257" HPF="0.347789" Learn="0" High="0.531768" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C633C722DE1D085BF8B0FC548AC3E54E5B5E590738ECB21E6654B0FCDD9B2F150D6A97D87CEAC9D736891E5CA43B30C761C2AD874F8D01AA1A5876634AE3924CCB7EB909CE196432EBF6A9CE27EC539CF9AF9C5D9AF2ADCA575F1729759373FB8AC5BAFEC6A3B2BD4354DACDDB575F332D7254B4EBACE7AF9DED5F6208FDB
+2C73653786086B3796CFDFEC0C2AAD6C439526DA3200C147450EFB34C14D760C0C0DF6100C04005BBF49B8]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+  </Tracks>
+  <Clipboard>
+    <Group Caption="Skupina 1"/>
+    <Group Caption="Skupina 2"/>
+    <Group Caption="Skupina 3"/>
+    <Group Caption="Skupina 4"/>
+  </Clipboard>
+  <Markers>
+    <Marker Id="1" Name="Začátek výběru" Time="22:25.975"/>
+    <Marker Id="2" Name="Konec výběru" Time="22:28.588"/>
+    <Marker Id="3" Name="změna hlasitosti" Time="02:06.211"/>
+  </Markers>
+</Session>

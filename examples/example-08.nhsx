@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg Journalist Trial 1.85.2338" Samplerate="44100">
+  <AudioPool Path="MY A ONI SO+BED Files" Location="H:\GOGA">
+    <File Id="1" Name="MY A ONI-SO +BED 44100.wav" Duration="55.536" Channels="2" Leq="-19.3" Meta="True">
+      <MetaData Date="2015:10:31"/>
+    </File>
+  </AudioPool>
+  <Tracks>
+    <Track Name="JINGLE">
+      <Region Ref="1" Name="NECHAT" Start="14.688" Length="21.578" Offset="14.688" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="START" Length="04.475" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="×A" Start="04.475" Length="03.405" Offset="04.475" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="×B" Start="07.880" Length="06.808" Offset="07.880" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="×C" Start="36.266" Length="01.705" Offset="36.266" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="NECHAT" Start="37.971" Length="01.349" Offset="37.971" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="×D" Start="39.320" Length="01.714" Offset="39.320" Gain="-3.7" Leq="-19.3"/>
+      <Region Ref="1" Name="KONEC" Start="41.034" Length="14.502" Offset="41.034" Gain="-3.7" Leq="-19.3"/>
+    </Track>
+  </Tracks>
+  <Clipboard>
+    <Group Caption="Sklad 1"/>
+    <Group Caption="Sklad 2"/>
+    <Group Caption="Sklad 3"/>
+    <Group Caption="Sklad 4"/>
+  </Clipboard>
+  <Markers>
+    <Marker Id="1" Name="In" Time="29:55.200"/>
+    <Marker Id="2" Name="Out" Time="36:54.400"/>
+  </Markers>
+</Session>

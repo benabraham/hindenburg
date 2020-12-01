@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg Journalist Pro 1.85.2348" Samplerate="44100">
+  <AudioPool Path="MaoAugustine Files" Location="H:\GOGA\_export">
+    <File Id="1" Name="AugustineR.wav" Duration="51:53.534"/>
+    <File Id="2" Name="GogaR.wav" Duration="50:58.128"/>
+    <File Id="3" Name="cleanedL.wav" Duration="50:26.638"/>
+    <File Id="4" Name="cleanedR.wav" Duration="50:26.638"/>
+  </AudioPool>
+  <Tracks>
+    <Track Name="Goga" Pan="1">
+      <Region Ref="2" Name="Goga" Length="50:26.639" Offset="00.350" Gain="1.0"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.148767" Threshold="0.318784" Attack="0.00165746" HPF="0.455991" Learn="0" High="0.447704" Mix="1" Vendor="Klevgrand" Edge="0.00497238">
+          <![CDATA[BZ:789C630C8EAC3BC47070D721068613602CB778D1A1A4E4E3707E88ED3A381B84DBF4B7A0F05D7ED538C5FD8A739E35F38BB35F55B84BEBE2E52EB36E7E7059B75ED9D57656A86B9A58BB6BEBE665AE4B969C749DF5F2BDABED411EB759E6CA6E0C11D66E9BCC17DB89DADFB40A0C93B00B78BFC8BAC5F2A9DD96F297760C0C0D
+F6100C0400DCE343B5]]>
+        </Plugin>
+        <Plugin Id="2" Name="Voice Profiler" UID="nhft" Vendor="Hindenburg Systems" Bypass="True"/>
+        <Plugin Id="4" Name="Compressor" UID="nhcl" Comp="0.41" Vendor="Hindenburg Systems" Bypass="True"/>
+      </Plugins>
+    </Track>
+    <Track Name="Augustine" Pan="-1">
+      <Region Ref="1" Name="Augustine" Length="50:26.639" Offset="01:26.895" Gain="-6.0"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.1007" Threshold="0.48674" Attack="0.00906163" HPF="0.475412" Learn="0" High="0.467127" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C6314BF157588CD67EBA1C9A9BB0FE53E3E7CA86A43D4A11ADF6D872E791E3BB4C0F3E8A179F3E71C9AE6B4EB1003C38943C5E2C70E4DDFBDE65033D31E30FFD28F5D875C7ED538C5FD8A739E35F38BB35F55B84BEBE2E52EB36E7E7059B75ED9D57656A86B9A58BB6BEBE665AE4B969C749DF5F2BDABED411EB759E6CA6E
+0C11D66EEC663FED2CCB456CF86DCED9320081ADF67B3B9BCCCF760C0C0DF6100C0400D11E491A]]>
+        </Plugin>
+        <Plugin Id="2" Name="Voice Profiler" UID="nhft" MF_Gain="0.399413" HF_Freq="0.414525" LF_Q="0.12" Comp="0.307437" HF_Gain="0.575" MF_Q="0.12" HP_Gain="0.2" HP_Freq="0.00361034" Bypass="True" HF_Type="0.7" HF_Q="0.09" MF_Freq="0.0252931" Vendor="Hindenburg Systems" LF_Freq="0.00642917" LF_Gain="0.575"/>
+        <Plugin Id="4" Name="Compressor" UID="nhcl" Comp="0.5" Vendor="Hindenburg Systems" Bypass="True"/>
+      </Plugins>
+    </Track>
+    <Track Name="Track 3">
+      <Region Ref="3" Name="cleaned - L" Length="50:26.639" Gain="-2.7"/>
+    </Track>
+    <Track Name="Track 4" Pan="-1">
+      <Region Ref="4" Name="cleaned - R" Length="50:26.639" Gain="-2.7"/>
+    </Track>
+  </Tracks>
+  <Clipboard>
+    <Group Caption="Group 1"/>
+    <Group Caption="Group 2"/>
+    <Group Caption="Group 3"/>
+    <Group Caption="Group 4"/>
+  </Clipboard>
+  <Markers>
+    <Marker Id="1" Name="In" Time="00.000"/>
+    <Marker Id="2" Name="Out" Time="02:22.000"/>
+  </Markers>
+  <TrackLinks>
+    <TrackLink Tracks="2, 4"/>
+  </TrackLinks>
+</Session>

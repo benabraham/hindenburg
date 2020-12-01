@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg Journalist Pro 1.85.2348" Samplerate="44100">
+  <AudioPool Path="denoise Files" Location="H:\GOGA\MaoMaki">
+    <File Id="1" Name="orig-inetR.wav" Duration="30:29.888"/>
+    <File Id="2" Name="orig-rekorderR.wav" Duration="30:57.288"/>
+  </AudioPool>
+  <Tracks>
+    <Track Name="Interview">
+      <Region Ref="2" Name="Goga" Length="30:30.497" Offset="26.790"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.0890983" Threshold="0.5" Attack="0.00906163" HPF="0.349447" Learn="0" High="0.584807" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C637C149871684DEBE643FAFC070E65751C3AF4216CE5A126915D8718184E1C6A797AFC509BE8864336CA87C07C107EE4B9F5D0F3AA836076E8D67D875C7ED538C5FD8A739E35F38BB35F55B84BEBE2E52EB36E7E7059B75ED9D57656A86B9A58BB6BEBE665AE4B969C749DF5F2BDABED411EB759E6CA6E0C11D66EFFFFFF
+B7B32C17B1D1A9DC66CB00040FB78ADA1F79B5C98E81A1C11E8281000061B44A7E]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+    <Track Name="Music">
+      <Region Ref="1" Name="Kriistina" Start="26.728" Length="01.122" Offset="01:28.135"/>
+      <Region Ref="1" Name="Kriistina" Start="39.425" Length="28:49.055" Offset="01:40.832"/>
+      <Plugins>
+        <Plugin Id="0" Name="Brusfri" UID="Mmal" Lookahead="1" Release="0.104015" Threshold="0.500934" Attack="0.0107191" HPF="0.400828" Learn="0" High="0.359392" Mix="1" Vendor="Klevgrand" Edge="0">
+          <![CDATA[BZ:789C63147E3BFB10D3B115878ECF5F738881E1C4A1DAC5FD873EDC5871E895F25E30FF51FE9C439B022172203CC37DC5A1891108BECBAF1AA7B85F71CEB3667E71F6AB0A77695DBCDC65D6CD0F2EEBD62BBBDACE0A754D136B776DDDBCCC75C99293AEB35EBE77B53DC8E336CB5CD98D21C2DACDD496C15E66BEBE0D07DB555B
+0620B063DA61976279D68E81A1C11E82810000CAC34570]]>
+        </Plugin>
+      </Plugins>
+    </Track>
+  </Tracks>
+  <Clipboard>
+    <Group Caption="Group 1"/>
+    <Group Caption="Group 2"/>
+    <Group Caption="Group 3"/>
+    <Group Caption="Group 4"/>
+  </Clipboard>
+  <Markers>
+    <Marker Id="1" Name="In" Time="27.850"/>
+    <Marker Id="2" Name="Out" Time="39.425"/>
+  </Markers>
+</Session>

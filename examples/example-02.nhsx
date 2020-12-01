@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg Journalist Pro 1.85.2348" Samplerate="44100">
+  <Info Author="Daniel Srb"/>
+  <AudioPool Path="MaoAugustine Files" Location="H:\GOGA\MaoAugustine">
+    <File Id="1" Name="cleanedL.wav" Duration="50:26.639"/>
+    <File Id="2" Name="cleanedR.wav" Duration="50:26.639"/>
+  </AudioPool>
+  <Tracks>
+    <Track Name="Goga">
+      <Region Ref="1" Name="Goga" Length="50:26.639" Gain="-2.7"/>
+      <Plugins>
+        <Plugin Id="1" Name="Voice Profiler" UID="nhft" MF_Gain="0.35" HF_Freq="0.494172" LF_Q="0.12" CompBypass="1" Comp="0.402553" HF_Gain="0.35" MF_Q="0.188521" HP_Gain="0.2" HP_Freq="0.00136364" Bypass="False" HF_Type="0.7" HF_Q="0.09" MF_Freq="0.00995582" Vendor="Hindenburg Systems" LF_Type="0" LF_Freq="0.00438824" LF_Gain="0.65"/>
+        <Plugin Id="2" Name="Compressor" UID="nhcl" Comp="0.41" Vendor="Hindenburg Systems" Bypass="False"/>
+      </Plugins>
+    </Track>
+    <Track Name="Augustine">
+      <Region Ref="2" Name="Augustine" Length="50:26.639" Gain="-2.7"/>
+      <Plugins>
+        <Plugin Id="2" Name="Voice Profiler" UID="nhft" MF_Gain="0.411461" LF_Q="0.12" HF_Freq="0.425937" CompBypass="1" HF_Gain="0.575" Comp="0.472946" HP_Gain="0.2" MF_Q="0.12" HP_Freq="0.00359943" Bypass="False" HF_Type="0.7" Vendor="Hindenburg Systems" MF_Freq="0.025504" HF_Q="0.09" LF_Type="0" LF_Freq="0.00653794" LF_Gain="0.575"/>
+        <Plugin Id="4" Name="Compressor" UID="nhcl" Comp="0.5" Vendor="Hindenburg Systems" Bypass="False"/>
+      </Plugins>
+    </Track>
+    <Track Name="Track 3"/>
+    <Track Name="Track 4" Pan="-1"/>
+  </Tracks>
+  <Clipboard>
+    <Group Caption="Group 1"/>
+    <Group Caption="Group 2"/>
+    <Group Caption="Group 3"/>
+  </Clipboard>
+  <Markers>
+    <Marker Id="1" Name="In" Time="44:04.014"/>
+    <Marker Id="2" Name="Out" Time="45:13.593"/>
+  </Markers>
+  <TrackLinks>
+    <TrackLink Tracks="1, 2"/>
+  </TrackLinks>
+</Session>
