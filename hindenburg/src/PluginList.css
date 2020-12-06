@@ -1,0 +1,8 @@
+.PluginList {
+    border: 1px solid red;
+}
+
+.Plugin {
+    border: 1px solid red;
+    cursor: grab;
+}
